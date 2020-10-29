@@ -1,0 +1,98 @@
+#wrap{
+	background-image: url(50.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-size: 100%;
+}
+
+/*#website_header{
+	padding: 20px;
+	padding-top: 50px;
+	margin: 30px;
+	margin-left: 475px;
+	color: orange;
+	font-size: 35px;
+	font-family: tahoma;
+	font-style: italic;
+}*/
+
+#title{
+
+}
+
+h1{
+	color: purple;
+}
+
+h2{
+	color: blue;
+
+}
+
+#nparagraph{
+
+}
+
+.text_paragraph{
+	width: 650px;
+	margin: 0 auto;
+	font-size: 20px;
+}
+img{
+	width:  270px; 
+	height: 300px;
+	padding-bottom: 5px;
+	position: absolute;
+	top: 20%;
+}
+.nicolas{
+	font-size: 25px;
+	padding: 30px;
+}
+.prix{
+	color: red;
+	font-size: 25px;
+}
+.stock{
+	color: red;
+	font-size: 25px;
+}
+.Lédition{
+	color: red;
+	font-size: 25px;
+}
+.N{
+	color: blue;
+
+}
+#momo{
+	font-size: 18px;
+}
+.droit input{
+	width: 50px;
+	height: 30px;
+	padding-left: 10px;
+	font-size: 20px;
+	margin-right: 10px;
+	border: 1px solid;
+	margin-top: 20px;
+}
+input:focus{
+	outline: none;
+}
+.droit{
+	float: right;
+	margin-right: 500px;
+	margin-top: -150px;
+}
+.droit button{
+	height: 35px;
+	width: 200px;
+	font-size: 20px;
+	background: #ffdf3f;
+	border: none;
+	border-radius: 25px;
+}
+button:hover{
+	background: #ffdf3f;
+}
